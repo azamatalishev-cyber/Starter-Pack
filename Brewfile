@@ -4,7 +4,7 @@ cask_args appdir: '/Applications'
 brew 'git'
 brew 'dockutil'
 brew 'zsh'
-
+brew 'shpotify'
 # Casks
 cask 'google-chrome'
 cask 'pycharm'

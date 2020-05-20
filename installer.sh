@@ -16,7 +16,7 @@ brew update
 brew bundle
 
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
-
+curl -O https://raw.githubusercontent.com/MartinSeeler/iterm2-material-design/master/material-design-colors.itermcolors
 #Remove junk fom dock
 dockutil --remove 'Safari'
 dockutil --remove 'Mail'
